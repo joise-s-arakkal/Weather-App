@@ -25,7 +25,7 @@ A simple Flask-based web application to fetch and display current weather inform
 
 ```bash
 git clone https://github.com/joise-s-arakkal/Weather-App.git
-cd Weather-App-main
+cd Weather-App
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
